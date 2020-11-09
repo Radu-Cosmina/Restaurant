@@ -1,0 +1,8 @@
+Order ID : 2
+Date : 12/09/2020
+Table : 4
+Ordered Items : 
+cheeseburger 16
+cola 5
+fries 7
+Total price : 28

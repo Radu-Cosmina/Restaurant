@@ -1,0 +1,7 @@
+Order ID : 3
+Date : 12/09/2020
+Table : 1
+Ordered Items : 
+happy meal 23
+combo 51
+Total price : 74

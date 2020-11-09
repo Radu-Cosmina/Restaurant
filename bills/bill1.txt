@@ -1,0 +1,7 @@
+Order ID : 1
+Date : 12/09/2020
+Table : 3
+Ordered Items : 
+burger 14
+fanta 5
+Total price : 19
